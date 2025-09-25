@@ -1,4 +1,6 @@
 # 🏃‍♂️ Script de Sincronização de Treinos - Google Sheets + Calendar + Tasks
+## Veja com mais detalhes neste artigo:
+[Automatizei meu Plano de Treinos com Google Apps Script: Do Sheets ao Calendar em Um Clique](https://medium.com/@onativo/automatizei-meu-plano-de-treinos-com-google-apps-script-do-sheets-ao-calendar-em-um-clique-91a1fb3f95f7)
 
 ## 📋 Descrição
 
